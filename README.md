@@ -1,4 +1,3 @@
 # Asignatura-CC
 Proyectos 
-[nik omatkoum] (https://www.google.es/)
- 
+This site was built using [nik omatkoum](https://pages.github.com/).
