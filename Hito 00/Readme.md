@@ -8,3 +8,7 @@
 Para generar una llave ejecutamos locaux  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 
 ![Capture- ssk valida](https://user-images.githubusercontent.com/116302871/198808068-a1bf7a0c-fa11-4f97-8a66-6408258848da.PNG)
+
+### Configuración del profil
+
+![profil](https://user-images.githubusercontent.com/116302871/198812330-6840d23d-6d20-4f11-9e5b-063220dc1da4.PNG)
