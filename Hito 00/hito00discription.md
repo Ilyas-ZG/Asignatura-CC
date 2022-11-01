@@ -3,8 +3,8 @@
    Para ello, se creará un repositorio, que se usará durante el resto de la asignatura, para mostrar el avance el proyecto de despliegue de una aplicación en diferentes hitos.  
    Primero, hay que configurar correctamente el entorno, lo que incluye
 
--Descarga de git para usarlo desde línea de órdenes (cómo se descargue no hace falta documentarlo).
--Creación de par de claves y subida de clave pública a GitHub.
--Configuración correcta del nombre y correo electrónico para que aparezca en los commits.
--Edición del perfil de GitHub para que aparezca una imagen en vez del avatar por omisión, nombre completo y ciudad, así como universidad.
--Incrementar la seguridad de nuestra cuenta en GitHub activando el segundo factor de autenticación.
+-Descarga de git para usarlo desde línea de órdenes (cómo se descargue no hace falta documentarlo).  
+-Creación de par de claves y subida de clave pública a GitHub.  
+-Configuración correcta del nombre y correo electrónico para que aparezca en los commits.  
+-Edición del perfil de GitHub para que aparezca una imagen en vez del avatar por omisión, nombre completo y ciudad, así como universidad.  
+-Incrementar la seguridad de nuestra cuenta en GitHub activando el segundo factor de autenticación.  
