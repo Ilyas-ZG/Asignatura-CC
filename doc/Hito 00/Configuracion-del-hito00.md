@@ -19,4 +19,7 @@ Para generar una llave ejecutamos locaux
 
 ### Push request    
 
+para hacer un push request in mi caso uso :  
+>  git push origin main  
+
 ![el psuh](https://user-images.githubusercontent.com/116302871/199275678-21a01dc6-62df-4698-bdea-1828d57f5063.PNG)
