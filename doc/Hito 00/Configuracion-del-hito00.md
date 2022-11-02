@@ -7,11 +7,15 @@
 
 Para generar una llave ejecutamos locaux    
 
->  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"   
-
+>  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"     
 
 
 ![Capture- ssk valida](https://user-images.githubusercontent.com/116302871/198808068-a1bf7a0c-fa11-4f97-8a66-6408258848da.PNG)
+
+### Configuración de los commits :  
+> git config --global user.email"e.iyaszgaoula@go.ugr.es"
+> git config --global user.nam"ilyas zgaoula"
+
 
 ### Configuración del profil
 
