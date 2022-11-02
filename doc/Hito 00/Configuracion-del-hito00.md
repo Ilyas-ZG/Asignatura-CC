@@ -13,7 +13,7 @@ Para generar una llave ejecutamos locaux
 ![Capture- ssk valida](https://user-images.githubusercontent.com/116302871/198808068-a1bf7a0c-fa11-4f97-8a66-6408258848da.PNG)
 
 ### Configuración de los commits :  
-> git config --global user.email"e.iyaszgaoula@go.ugr.es"
+> git config --global user.email"e.iyaszgaoula@go.ugr.es"  
 > git config --global user.nam"ilyas zgaoula"
 
 
