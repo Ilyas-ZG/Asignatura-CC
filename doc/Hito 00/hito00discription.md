@@ -7,4 +7,4 @@
 - Creación de par de claves y subida de clave pública a GitHub.  
 - Configuración correcta del nombre y correo electrónico para que aparezca en los commits.  
 - Edición del perfil de GitHub para que aparezca una imagen en vez del avatar por omisión, nombre completo y ciudad, así como universidad.  
-- Incrementar la seguridad de nuestra cuenta en GitHub activando el segundo factor de autenticación.  
+- Incrementar la seguridad de nuestra cuenta en GitHub activando el segundo factor de autenticación .  
