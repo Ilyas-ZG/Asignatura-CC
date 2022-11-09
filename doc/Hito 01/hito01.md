@@ -1,5 +1,5 @@
 ## Hito01:  
-### Historias de usuarios: 
+### :heavy_minus_sign: Issues "Historias de usuarios": 
 ---  
 Aqui vamos a poner algunas historias de usuario, para trabajar en eso:
 
@@ -9,7 +9,7 @@ Aqui vamos a poner algunas historias de usuario, para trabajar en eso:
 - [HU-4](https://github.com/Ilyas-ZG/Asignatura-CC/issues/6): Como usuario quiero calificar o dejar un comentario para dejar mi opinión que puede ser utilizada por otros usuarios
 - [HU-5](https://github.com/Ilyas-ZG/Asignatura-CC/issues/7): Como usuario quiero poder modificar los datos de mi cuenta.
 ***
-### Hitos: 
+### :heavy_minus_sign: Hitos: 
 El projet contient 3 hitos. Dentro de cada uno se puede ver  las user story:    
 
 - [hito 01](https://github.com/Ilyas-ZG/Asignatura-CC/milestone/1): El usuario puede gestionar su cuenta y su identificación  
